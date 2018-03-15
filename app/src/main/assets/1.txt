@@ -1,0 +1,5 @@
+﻿:LD:GR2,:=3
+:LD:GR3,:DATA:GR2
+:ST:GR3,:ANS
+
+::ANS=:●●

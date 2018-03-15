@@ -1,0 +1,5 @@
+﻿:LAD:GR7,:ANS
+:LD:GR7,:-2,:GR7
+:ST:GR7,:ANS
+
+::ANS=:●●

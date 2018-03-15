@@ -1,0 +1,6 @@
+:LAD:GR0,:DATA
+:LD:GR1,:GR0
+:LD:GR2,:3,:GR1
+:ST:GR2,:ANS
+
+::ANS=:#FFFF

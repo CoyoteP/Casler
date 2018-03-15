@@ -1,0 +1,6 @@
+:LD:GR1,:100
+:LD:GR2,:5,:GR1
+:ADDL:GR2,:4,:GR1
+:ST:GR2,:ANS
+
+::ANS=:#0061

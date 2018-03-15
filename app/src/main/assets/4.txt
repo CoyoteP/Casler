@@ -1,0 +1,5 @@
+﻿:LD:GR6,:ANS
+:LAD:GR6,:-48,:GR6
+:ST:GR6,:ANS
+
+::ANS=:●●

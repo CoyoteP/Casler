@@ -1,0 +1,7 @@
+,LAD,GR0,DATA
+,LD,GR12,◆◆
+,OAD,GR1,1001
+NEXT,ST,◆◆,ANS
+
+,ANS,●●
+

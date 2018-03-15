@@ -1,0 +1,7 @@
+:LAD:GR3,:508
+:LD:GR4,:3,:GR3
+:LAD:GR5,:ANS
+:ST:GR4,:ANS
+:ST:GR3,:0,:GR5
+
+::ANS=:●●

@@ -1,0 +1,7 @@
+﻿:LD:GR6,:=8
+:LAD:GR7,:DATA,:GR6
+:LD:GR1,:0,:GR7
+:LD:GR2,:0,:GR1
+:ST:GR2,:ANS
+
+::ANS=:●●
